@@ -3,13 +3,23 @@
 A list of tools available for you to quickly start a new prototype and get it done by the end of the day.
 
 
+## Cloud Platforms
+- [DigitalOcean](https://www.digitalocean.com/?refcode=d57240fe23c6)
+  - SSD cloud hosting
+  - Free $10 credit when signing up using link.
+- [Heroku](https://www.heroku.com/)
+  - scalable cloud platform for web app deployment
+
 ## Database Platforms
 - [Compose.io](https://www.compose.io/)
   - MongoDB, Elasticsearch and RethinkDB
   - Free Sandbox (up to 512MB data) for MongoDB
-- [MongoaLab](https://mongolab.com/)
+- [MongoLab](https://mongolab.com/)
   - MongoDB Managed Hosting
   - Free 500MB storage
+
+## Editors
+- [Atom](http://atom.io/)
 
 ## Email Platforms
 - [Mailgun](http://www.mailgun.com/)
@@ -27,13 +37,3 @@ A list of tools available for you to quickly start a new prototype and get it do
 
 ###[PHP](http://www.php.net/)
 - [Laravel](http://laravel.com/)
-
-## Cloud Platforms
-- [Heroku](https://www.heroku.com/)
-  - scalable cloud platform for web app deployment
-- [DigitalOcean](https://www.digitalocean.com/?refcode=d57240fe23c6)
-  - SSD cloud hosting
-  - Free $10 credit when signing up using link.
-
-## Editors
-- [Atom](http://atom.io/)
