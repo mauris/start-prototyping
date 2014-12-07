@@ -37,3 +37,16 @@ A list of tools available for you to quickly start a new prototype and get it do
 
 ###[PHP](http://www.php.net/)
 - [Laravel](http://laravel.com/)
+
+## Libraries
+
+###Content Delivery Networks (CDNs)
+- [cdnjs](https://cdnjs.com/)
+- [Bootstrap CDN](http://www.bootstrapcdn.com/)
+
+###JavaScript
+- [Holder.js](http://imsky.github.io/holder/)
+- [jQuery](https://jquery.org/)
+
+###CSS
+- [Bootstrap](http://getbootstrap.com/)
